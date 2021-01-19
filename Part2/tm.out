@@ -1,0 +1,16 @@
+10-07-23 17:52:00,031 [main] Logfile closed: D:\work\AgileSpring\CD\Part2\.\tmlog-1.log
+10-07-23 17:52:00,062 [main] MySQLXA3: refreshed XAResource
+10-07-23 17:52:00,062 [main] MySQLXA1: refreshed XAResource
+10-07-23 17:52:00,078 [main] MySQLXA2: refreshed XAResource
+10-07-23 21:11:58,312 [main] Starting read of logfile D:\work\AgileSpring\CD\Part2\.\tmlog0.log
+10-07-23 21:11:58,312 [main] Done read of logfile
+10-07-23 21:11:58,312 [main] Logfile closed: D:\work\AgileSpring\CD\Part2\.\tmlog0.log
+10-07-23 21:11:58,359 [main] MySQLXA3: refreshed XAResource
+10-07-23 21:11:58,359 [main] MySQLXA1: refreshed XAResource
+10-07-23 21:11:58,375 [main] MySQLXA2: refreshed XAResource
+10-07-24 24:52:26,750 [main] Starting read of logfile D:\work\AgileSpring\CD\Part2\.\tmlog1.log
+10-07-24 24:52:26,750 [main] Done read of logfile
+10-07-24 24:52:26,750 [main] Logfile closed: D:\work\AgileSpring\CD\Part2\.\tmlog1.log
+10-07-24 24:52:26,781 [main] MySQLXA3: refreshed XAResource
+10-07-24 24:52:26,796 [main] MySQLXA1: refreshed XAResource
+10-07-24 24:52:26,812 [main] MySQLXA2: refreshed XAResource
